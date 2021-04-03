@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: khatritushar320@gmail.com;
-* Here's my YT channel => https://www.youtube.com/channel/UCcgYO9UkTyvozoFMXRfnN6g
+* Here's my YT channel => https://www.youtube.com/channel/UCcgYO9UkTyvozoFMXRfnN6g;
 
 
 
