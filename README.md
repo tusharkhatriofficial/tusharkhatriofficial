@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I’m a Student, YouTuber, Flutter Developer, and Pyhoneer!
+## I’m a Student, YouTuber, Flutter Developer, and Pythoneer!
 
 Hi, I'm Tushar Khatri, a passionate self-taught Flutter Developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
