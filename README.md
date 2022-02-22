@@ -8,11 +8,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Dart and Flutter ☺
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Study and contribute to Open source projects
+- 🥅 2022 Goals: Study and contribute to Open source projects
 - ⚡ Fun fact: I am the laziest person and that's why I choose to code.
 
 * 💬 Ask me about anything, I am happy to help;
-* 📫 How to reach me: khatritushar320@gmail.com;
+* 📫 How to reach me: khatritushar420@gmail.com;
 * Here's my YT channel => https://www.youtube.com/channel/UCcgYO9UkTyvozoFMXRfnN6g;
 
 
