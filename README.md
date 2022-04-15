@@ -10,8 +10,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Study and contribute to Open source projects
 - ⚡ Fun fact: I am the laziest person and that's why I choose to code.
-
-* 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help;
 
 📫 How to reach me: 
 * <a href="url"><img src="https://user-images.githubusercontent.com/64004539/163582926-dc45bd01-75d7-4a94-a19a-f4a1bafcefef.png" align="left" height="23" width="23" ></a> [Email](mailto:khatritushar420@gmail.com)
