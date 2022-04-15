@@ -13,7 +13,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 * 💬 Ask me about anything, I am happy to help;
 * 📫 How to reach me: khatritushar420@gmail.com;
-* Here's my YT channel => https://www.youtube.com/channel/UCcgYO9UkTyvozoFMXRfnN6g;
+* <a href="url"><img src="https://user-images.githubusercontent.com/64004539/163581667-d02ef14e-f7bb-4b0a-8a16-b656bd3b1110.jpg" align="left" height="10" width="10" ></a>
+* Here's my YT channel: https://www.youtube.com/channel/UCcgYO9UkTyvozoFMXRfnN6g;
 
 
 
