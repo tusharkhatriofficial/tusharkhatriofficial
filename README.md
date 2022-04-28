@@ -22,6 +22,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img src="https://user-images.githubusercontent.com/64004539/165444064-67ec916c-660c-410d-91ce-1f39704a3981.svg" align="center"> 
  
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/64004539/165444064-67ec916c-660c-410d-91ce-1f39704a3981.svg)
 
 
