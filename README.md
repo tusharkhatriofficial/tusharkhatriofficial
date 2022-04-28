@@ -17,8 +17,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 * <a href="url"><img src="https://user-images.githubusercontent.com/64004539/163581667-d02ef14e-f7bb-4b0a-8a16-b656bd3b1110.jpg" align="left" height="23" width="23" ></a> [Instagram](https://www.instagram.com/tushar_khatri_official_/)
 * <a href="url"><img src="https://user-images.githubusercontent.com/64004539/163582101-31cb9cce-ea07-4ab3-a85b-741cd253d4cc.png" align="left" height="19" width="23" ></a> [YouTube](https://www.youtube.com/channel/UCcgYO9UkTyvozoFMXRfnN6g)
  
-<a href="url"><img src="https://user-images.githubusercontent.com/64004539/165816472-f73feba2-1e40-4548-b332-780c27d4fbc0.gif" align="left" height="250"> <a href="url"><img src="https://user-images.githubusercontent.com/64004539/165815697-dce341ab-e933-4bd2-9336-4b86c5df88cd.gif" align="right"> 
-<!-- ![programmer](https://user-images.githubusercontent.com/64004539/165815697-dce341ab-e933-4bd2-9336-4b86c5df88cd.gif) ![68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966](https://user-images.githubusercontent.com/64004539/165816472-f73feba2-1e40-4548-b332-780c27d4fbc0.gif) -->
+<a href="url"><img src="https://user-images.githubusercontent.com/64004539/165816472-f73feba2-1e40-4548-b332-780c27d4fbc0.gif" align="left" height="300"> <a href="url"><img src="https://user-images.githubusercontent.com/64004539/165815697-dce341ab-e933-4bd2-9336-4b86c5df88cd.gif" align="right"> 
+
 
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/64004539/165444064-67ec916c-660c-410d-91ce-1f39704a3981.svg)
