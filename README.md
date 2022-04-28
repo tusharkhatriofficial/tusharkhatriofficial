@@ -9,7 +9,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🌱 I’m currently learning Kotlin and Swift ☺
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Study and contribute to Open source projects
-- ⚡ Fun fact: I am the laziest person and that's why I choose to code.
+- ⚡ Fun fact: I blew up the chemistry lab while experimenting with smoke bomb.
 - 💬 Ask me about anything, I am happy to help;
 
 📫 How to reach me: 
