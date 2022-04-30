@@ -21,7 +21,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
 <img src="https://user-images.githubusercontent.com/64004539/165444064-67ec916c-660c-410d-91ce-1f39704a3981.svg" align="center">
  
- </a> [![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a56714c597334383158396b775f43546f7367716c63672e706e67](https://user-images.githubusercontent.com/64004539/166110563-c1914324-4d21-47a2-bb71-ed10d4b7ad0a.png)](https://www.buymeacoffee.com/tusharkhatri)
+ 
+ 
+</a> [![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a56714c597334383158396b775f43546f7367716c63672e706e67](https://user-images.githubusercontent.com/64004539/166110563-c1914324-4d21-47a2-bb71-ed10d4b7ad0a.png)](https://www.buymeacoffee.com/tusharkhatri)
  
 
 
