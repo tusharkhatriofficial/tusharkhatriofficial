@@ -4,7 +4,9 @@
 Hi, I'm Tushar Khatri, a passionate self-taught Coder and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharkhatri.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharkhatriofficial) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tusharkhatri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DamanKhatri_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tusharkhatri.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharkhatriofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DamanKhatri_) 
+
+### Find my Tech Blog at [blog.tusharkhatri.in](https://blog.tusharkhatri.in).
 
 # 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -53,6 +55,9 @@ Hi, I'm Tushar Khatri, a passionate self-taught Coder and a freelance software e
 
  
 <!-- commented code
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tusharkhatri) 
+
  📫 How to reach me: 
 * <a href="url"><img src="https://user-images.githubusercontent.com/64004539/163582926-dc45bd01-75d7-4a94-a19a-f4a1bafcefef.png" align="left" height="23" width="23" ></a> [Email](mailto:khatritushar420@gmail.com)
 * <a href="url"><img src="https://user-images.githubusercontent.com/64004539/163581667-d02ef14e-f7bb-4b0a-8a16-b656bd3b1110.jpg" align="left" height="23" width="23" ></a> [Instagram](https://www.instagram.com/tushar_khatri_official_/)
