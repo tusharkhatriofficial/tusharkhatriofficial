@@ -1,4 +1,7 @@
-![Scrat](https://github.com/user-attachments/assets/5e9887c3-9d01-467d-b386-980e041777b1)
+
+<img width="892" height="367" alt="tom-chasing-action-pose-88969kkebjz4oxau" src="https://github.com/user-attachments/assets/3ac2b4c8-b25b-4305-81d4-8dd29367a57e" />
+
+<!-- ![Scrat](https://github.com/user-attachments/assets/5e9887c3-9d01-467d-b386-980e041777b1)
 
 
 <!-- 
