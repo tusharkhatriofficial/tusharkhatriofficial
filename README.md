@@ -1,4 +1,5 @@
-![hq720](https://github.com/user-attachments/assets/040270db-63e1-4c2b-9032-5972a9503b0c)
+![Scrat](https://github.com/user-attachments/assets/5e9887c3-9d01-467d-b386-980e041777b1)
+
 
 <!-- 
 [![@tusharkhatriofficial's Holopin board](https://holopin.io/api/user/board?user=tusharkhatriofficial)](https://holopin.io/@tusharkhatriofficial)    
