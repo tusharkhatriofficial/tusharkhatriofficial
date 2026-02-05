@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&repeat=false&speed=85&width=1000&color=7C7CFF&lines=Nothing+viral+here.+Just+consistent+progress+and+bad+ideas.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&repeat=false&speed=85&width=1000&color=7C7CFF&lines=Nothing+viral+here.+Just+consistent+progress+and+good+ideas.)](https://git.io/typing-svg)
